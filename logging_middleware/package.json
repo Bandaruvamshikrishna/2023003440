@@ -1,0 +1,13 @@
+{
+  "name": "logging_middleware",
+  "version": "1.0.0",
+  "description": "Logging Middleware Project",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1"
+  }
+}
